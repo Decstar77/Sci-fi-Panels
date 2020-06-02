@@ -10,8 +10,8 @@ There are 2 algorithms for generating the panels which I call, Square and Abstra
 
 | Algorithm     |  Description  |
 | ------------- | ------------- |
-| Square  | This algorithm works by taking the least and max vertex in the mesh, then generating a series of planes to cut the mesh. The resulting intersections are the cuts. The cuts are then beveled, and extruded. All of the above has random values that are tweakable. Example: number of planes generated |
-| Abstract | This algorithm works by picking 2 edges. These 2 edges will then be sub-divided resulting in an extra vertex on each edge. These extra vertices are then connected to form a new edge. This new edge is then beveled, and extruded. Again the above uses random values are tweakable. Example: how much the edge is beveled |
+| Square  | This algorithm works by taking the least and max vertex in the mesh, then generating a series of planes to cut the mesh. The resulting intersections are the cuts. The cuts are then bevelled, and extruded. All the above has random values that are tweakable. Example: number of planes generated |
+| Abstract | This algorithm works by picking 2 edges. These 2 edges will then be sub-divided resulting in an extra vertex on each edge. These extra vertices are then connected to form a new edge. This new edge is then bevelled, and extruded. Again, the above uses random values are tweakable. Example: how much the edge is bevelled |
 
 **Installation**
 <ul>
