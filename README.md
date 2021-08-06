@@ -2,8 +2,7 @@
 A procedural Sci-fi panel generator for blender 2.8
 
 **Please Note** </br>
-I'm an no longer working on this, and thus is no longer supported </br>
-If you'd like a last packaged version that you can load as an add on in blender 2.8 you can find that here: https://gum.co/TCnk 
+I'm an no longer working on this, but is currently being supported by Joshua Bloemer https://github.com/joshuabloemer/Sci-fi-Panels </br>
 
 ![add3](https://user-images.githubusercontent.com/34284628/122260952-25f2f480-ced4-11eb-989a-9201ee184cc8.PNG)
 ![add1](https://user-images.githubusercontent.com/34284628/122260858-0b208000-ced4-11eb-9a1b-0dbeadf60015.PNG)
